@@ -1,0 +1,11 @@
+# Js repo use custom repository
+
+# Config custom repository in js.
+
+1. Create a file named `.npmrc` for npm config.
+
+2. Add the following string in this config.
+
+```
+registry=http://localhost:5000/repository/npm-all/
+```
